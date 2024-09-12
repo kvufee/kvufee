@@ -2,8 +2,8 @@
   <h2>Hello!</h2>
 </div>
 
-<div id="about" align="center">
-  <h3>Contact me with:</h3>
-  <h4>Mail: wibbleydock@yandex.ru</h4>
-  <h3>Telegram: @wibbleydock</h3>
+<div id="about" align="left">
+  <h4>Contact me with:
+      Mail: wibbleydock@yandex.ru
+      Telegram: @wibbleydock</h4>
 </div>
