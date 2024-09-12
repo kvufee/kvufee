@@ -11,6 +11,7 @@
 ### About me:
 - I am currently learning ML, A/B and Data Science
 - Study at ITMO University, Software Engineering
+- [CV]([https://github.com/](https://github.com/kvufee/popov_cv/blob/main/CV.pdf))
 - SBD Total @93kg bw: 515kg
 
 ---
