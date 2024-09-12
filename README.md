@@ -27,5 +27,5 @@
 <h3> DB: </h3>
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=light" />
 <h3> Integration: </h3>
-<img src="https://skillicons.dev/icons?i=git,vim,bash,linux,docker&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,vim,bash,linux,docker,latex&theme=light" />
 </div>
