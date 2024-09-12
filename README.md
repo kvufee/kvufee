@@ -13,11 +13,12 @@
 - Study at ITMO University, Software Engineering
 - SBD Total @93kg bw: 515kg
 
+---
 
 <div id="skills", align="left">
 <h3> Programming: </h3>
 <img src="https://skillicons.dev/icons?i=python,cs,java&theme=light" />
-<h3> Analytics</h3>
+<h3> Analytics and ML </h3>
 <img  src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" height="40" width="40"/>
 <img  src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" height="40" width="100"/>
 <img  src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" height="40" width="100"/>
@@ -29,3 +30,9 @@
 <h3> Integration: </h3>
 <img src="https://skillicons.dev/icons?i=git,vim,bash,linux,docker,latex&theme=light" />
 </div>
+
+---
+
+### My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kvufee&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvufee&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
