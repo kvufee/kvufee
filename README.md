@@ -6,7 +6,7 @@
   <h4>Contact me with:</h4>
   <h4>wibbleydock@yandex.ru <- 📧</h4>
   <h4>@wibbleydock <- TG </h4>
-  <h4>[LinkedIn](https://www.linkedin.com/in/alexey-popov-68a5a4331/)</h4>
+  [LinkedIn](https://www.linkedin.com/in/alexey-popov-68a5a4331/)
 </div>
 
 ### About me:
