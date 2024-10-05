@@ -13,7 +13,7 @@
 - Studying at ITMO University, Software Engineering, 3 year
 - [CV](https://github.com/kvufee/popov_cv/blob/main/CV.pdf)
 - [LinkedIn](https://www.linkedin.com/in/alexey-popov-68a5a4331/)
-- SBD Total @93kg bw: 515kg
+- SBD Total @93kg bw: 517.5kg
 
 ---
 
