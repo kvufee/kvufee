@@ -6,13 +6,13 @@
   <h4>Contact me with:</h4>
   <h4>wibbleydock@yandex.ru <- 📧</h4>
   <h4>@wibbleydock <- TG </h4>
-  [LinkedIn](https://www.linkedin.com/in/alexey-popov-68a5a4331/)
 </div>
 
 ### About me:
 - I am currently learning ML, A/B and Data Science
 - Studying at ITMO University, Software Engineering, 3 year
 - [CV](https://github.com/kvufee/popov_cv/blob/main/CV.pdf)
+- [LinkedIn](https://www.linkedin.com/in/alexey-popov-68a5a4331/)
 - SBD Total @93kg bw: 515kg
 
 ---
