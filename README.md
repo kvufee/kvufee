@@ -18,7 +18,7 @@
 
 <div id="skills", align="left">
 <h3> Programming: </h3>
-<img src="https://skillicons.dev/icons?i=python,cs,java&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,cs&theme=light" />
 <h3> Analytics and ML </h3>
 <img  src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" height="40" width="40"/>
 <img  src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" height="40" width="100"/>
