@@ -8,7 +8,6 @@
 </div>
 
 ### About me:
-- I am currently learning ML, A/B and Data Science
 - Studying at ITMO University, Software Engineering, 3 year
 - [CV](https://github.com/kvufee/popov_cv/blob/main/CV_rus.pdf)
 - [LinkedIn](https://www.linkedin.com/in/alexey-popov-68a5a4331/)
