@@ -2,11 +2,9 @@
   <h2>Hello!</h2>
 </div>
 
-<div id="about" align="left">
-  <h4>Contact me with:</h4>
-  <br> - wibbleydock@yandex.ru</br>
-  <br> - [Telegram](https://t.me/wibbleydock/)</br>
-</div>
+### Contacts:
+💬: [Telegram](https://t.me/wibbleydock/)  
+📧: wibbleydock@yandex.ru
 
 ### About me:
 - Studying at ITMO University, Software Engineering, 3 year
@@ -18,7 +16,7 @@
 
 <div id="skills", align="left">
 <h3> Programming: </h3>
-<img src="https://skillicons.dev/icons?i=python,cs&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,cs,js,ts&theme=light" />
 <h3> Analytics and ML </h3>
 <img  src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" height="40" width="40"/>
 <img  src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" height="40" width="100"/>
