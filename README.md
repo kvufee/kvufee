@@ -4,7 +4,7 @@
 
 <div id="about" align="left">
   <h4>Contact me with:</h4>
-  📧: wibbleydock@yandex.ru  
+  📧: wibbleydock@yandex.ru\\
   💬: [Telegram](https://t.me/wibbleydock)
 </div>
 
